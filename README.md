@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jolusala
+- 👋 Hi, I’m Jose Luis Salazar
 - 👀 I’m interested in change the world.
 - 🌱 I’m currently learning javascript, dart, flutter, python, LoRa.
 - 💞️ I’m looking to collaborate on Mobile Application Developtment and Cybersecurity projects.
